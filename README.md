@@ -1,2 +1,2 @@
 # hello-world
-Programms on different programe languages, which print "hello world!"
+ There are program files on different programming languages, which print "hello world!".
